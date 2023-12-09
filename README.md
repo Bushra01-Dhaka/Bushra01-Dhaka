@@ -13,11 +13,10 @@
 - :sparkles: Excited to delve deeper into the realm of web development and collaborate on building something truly amazing together. 👊
 
 ## 🌐Reach me out
-<p align="start">
+<p align="center">
   <a href="https://www.linkedin.com/in/humayra-anjum-bushra-46b39b2a4/">
      <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-   <img src="https://skillicons.dev/icons?i=twitter" />
 </p>
 
 
