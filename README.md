@@ -15,7 +15,14 @@
 
 ## :chart:Current Stats
 ------
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bushra01-Dhaka&theme=algolia)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bushra01-Dhaka&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bushra01-Dhaka&theme=algolia)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bushra01-Dhaka&theme=algolia&utcOffset=8)
 
 
 <!--
