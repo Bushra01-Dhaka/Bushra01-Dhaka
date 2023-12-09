@@ -12,12 +12,18 @@
 - 🎯 I am eagerly anticipating new opportunities and eagerly looking forward to connecting with fellow professionals in the tech community. 
 - :sparkles: Excited to delve deeper into the realm of web development and collaborate on building something truly amazing together. 👊
 
+## 🌐Reach me out
+<!-- <p align="center">
+  <a href="https://skillicons.dev">
+    <img src=""/>
+  </a>
+</p> -->
 
 
 ## 🧑‍💻Technologies that I know
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,nodejs,mongodb,express,figma,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,firebase,nodejs,mongodb,express,figma,bootstrap,netlify" />
   </a>
 </p>
 
