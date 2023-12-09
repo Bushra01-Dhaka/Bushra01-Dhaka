@@ -15,8 +15,9 @@
 ## 🌐Reach me out
 <p align="start">
   <a href="https://www.linkedin.com/in/humayra-anjum-bushra-46b39b2a4/">
-     <img src="https://skillicons.dev/icons?i=linkedin,twitter" />
+     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+   <img src="https://skillicons.dev/icons?i=twitter" />
 </p>
 
 
@@ -25,6 +26,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,firebase,nodejs,mongodb,express,figma,bootstrap,netlify" />
   </a>
+  
 </p>
 
 
