@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![An old rock in the desert](https://raw.githubusercontent.com/Bushra01-Dhaka/Bushra01-Dhaka/main/images/banner/banner.png)](https://www.linkedin.com/in/humayra-anjum-bushra-46b39b2a4/)
+[![An old rock in the desert](https://raw.githubusercontent.com/Bushra01-Dhaka/Bushra01-Dhaka/main/images/banner/bannerNew.png)](https://www.linkedin.com/in/humayra-anjum-bushra-46b39b2a4/)
 
 
 <!--
