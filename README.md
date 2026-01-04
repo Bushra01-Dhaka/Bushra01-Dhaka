@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="http://bushra-portfolio.surge.sh/">
-     <img src="https://github.com/Bushra01-Dhaka/Bushra01-Dhaka/blob/main/website.png" />
+    🌐
   </a>
 </p>
 
