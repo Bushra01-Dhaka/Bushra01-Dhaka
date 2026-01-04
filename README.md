@@ -1,10 +1,10 @@
 
-[![An old rock in the desert](https://raw.githubusercontent.com/Bushra01-Dhaka/Bushra01-Dhaka/main/images/banner/bannerNew.png)](https://www.linkedin.com/in/humayra-anjum-bushra-46b39b2a4/)
+[![An old rock in the desert](https://raw.githubusercontent.com/Bushra01-Dhaka/Bushra01-Dhaka/blob/main/images/banner/linkedinBanner.png)](https://www.linkedin.com/in/humayra1/)
 
 ## :dizzy:About Me
 
 
--  :hand:I'm Humayra Anjum Bushra a 3rd Year Computer Science and Engineering student at Dhaka City College.
+-  :hand:I'm Humayra Anjum Bushra a 4th Year Computer Science and Engineering student at Dhaka City College.
 - 🧑‍💻 Fullstack web developer. 
 - 🔭 I’m currently working on React, Express js
 - 🔭 I’m currently learning next js
@@ -14,7 +14,7 @@
 
 ## 🌐Reach me out
 <p align="center">
-  <a href="https://www.linkedin.com/in/humayra-anjum-bushra-46b39b2a4/">
+  <a href="https://www.linkedin.com/in/humayra1/">
      <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
