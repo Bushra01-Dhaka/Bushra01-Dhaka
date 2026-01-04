@@ -1,5 +1,5 @@
 
-[![An old rock in the desert](https://raw.githubusercontent.com/Bushra01-Dhaka/Bushra01-Dhaka/blob/main/images/banner/linkedinBanner.png)](https://www.linkedin.com/in/humayra1/)
+[![An old rock in the desert](https://raw.githubusercontent.com/Bushra01-Dhaka/Bushra01-Dhaka/main/images/banner/linkedinBanner.png)](https://www.linkedin.com/in/humayra1/)
 
 ## :dizzy:About Me
 
