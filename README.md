@@ -12,17 +12,20 @@
 - 🎯 I am eagerly anticipating new opportunities and eagerly looking forward to connecting with fellow professionals in the tech community. 
 - :sparkles: Excited to delve deeper into the realm of web development and collaborate on building something truly amazing together. 👊
 
-## 🌐Reach me out
+## 🌐 Reach Me Out
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/humayra1/">
-     <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/humayra1/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://bushra-portfolio.surge.sh/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" height="45" alt="Portfolio Website" />
   </a>
 </p>
 
 <p align="center">
-  <a href="http://bushra-portfolio.surge.sh/">
-    🌐
-  </a>
+  <b>Let’s connect professionally and explore opportunities together 🚀</b>
 </p>
 
 
