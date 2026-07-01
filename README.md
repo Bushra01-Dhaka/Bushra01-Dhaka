@@ -4,7 +4,7 @@
 ## :dizzy:About Me
 
 
--  :hand:I'm Humayra Anjum Bushra a 4th Year Computer Science and Engineering student at Dhaka City College.
+-  :hand:I am Humaira Anjum Bushra, I have completed my B.Sc in Computer Science and Engineering from Dhaka City College.
 - 🧑‍💻 Fullstack web developer. 
 - 🔭 I’m currently working on React, Express js
 - 🔭 I’m currently learning next js
