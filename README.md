@@ -3,14 +3,32 @@
 
 ## :dizzy:About Me
 
+# 👋 Hi, I'm Humayra Anjum Bushra
 
--  :hand:I am Humaira Anjum Bushra, I have completed my B.Sc in Computer Science and Engineering from Dhaka City College.
-- 🧑‍💻 Fullstack web developer. 
-- 🔭 I’m currently working on React, Express js
-- 🔭 I’m currently learning next js
-- :rocket: Actively looking for job opportunities. With a strong foundation in fullstack web development.
-- 🎯 I am eagerly anticipating new opportunities and eagerly looking forward to connecting with fellow professionals in the tech community. 
-- :sparkles: Excited to delve deeper into the realm of web development and collaborate on building something truly amazing together. 👊
+🎓 **Computer Science & Engineering Graduate | Aspiring Lecturer | Lifelong Learner**
+
+I have completed my B.Sc. in Computer Science and Engineering from Dhaka City College and am currently pursuing a Professional Master's in Computer Science and Engineering at Jahangirnagar University.
+
+📚 Passionate about computer science education, knowledge sharing, and helping learners develop strong technical and problem-solving skills.
+
+💻 **Areas of Interest**
+- Computer Science Fundamentals & Programming
+- Object-Oriented Programming and Problem Solving
+- Web Technologies and Software Development
+- Educational Technology and Digital Learning
+- Research and Continuous Learning
+
+🛠️ **Technical Skills**
+- **Programming:** C++, JavaScript
+- **Web Technologies:** HTML5, CSS3, React.js, Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, Microsoft Office
+
+🚀 I enjoy exploring new technologies, building practical software projects, and strengthening my understanding of core computer science concepts.
+
+🎯 My goal is to pursue a career in academia, contribute to quality CSE education, support students in their learning journey, and continue growing through teaching, research, and collaboration.
+
+🤝 Always open to learning, sharing knowledge, and connecting with the academic and technology communities.
 
 ## 🌐 Reach Me Out
 
